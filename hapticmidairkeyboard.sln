@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hapticmidairkeyboard.Plugins", "hapticmidairkeyboard.Plugins.csproj", "{A004474B-5E93-BC8D-9587-D1FA37B16E36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hapticmidairkeyboard", "hapticmidairkeyboard.csproj", "{F9524109-4377-E1CE-E644-253C91BBCA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hapticmidairkeyboard.Editor.Plugins", "hapticmidairkeyboard.Editor.Plugins.csproj", "{C0C2DD22-40D2-EDBB-D527-3FF73706C17F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hapticmidairkeyboard.Editor", "hapticmidairkeyboard.Editor.csproj", "{4980CF36-3BE6-965B-5FE2-3228F6344739}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A004474B-5E93-BC8D-9587-D1FA37B16E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A004474B-5E93-BC8D-9587-D1FA37B16E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A004474B-5E93-BC8D-9587-D1FA37B16E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A004474B-5E93-BC8D-9587-D1FA37B16E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9524109-4377-E1CE-E644-253C91BBCA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9524109-4377-E1CE-E644-253C91BBCA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9524109-4377-E1CE-E644-253C91BBCA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9524109-4377-E1CE-E644-253C91BBCA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C2DD22-40D2-EDBB-D527-3FF73706C17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C2DD22-40D2-EDBB-D527-3FF73706C17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C2DD22-40D2-EDBB-D527-3FF73706C17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C2DD22-40D2-EDBB-D527-3FF73706C17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4980CF36-3BE6-965B-5FE2-3228F6344739}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4980CF36-3BE6-965B-5FE2-3228F6344739}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4980CF36-3BE6-965B-5FE2-3228F6344739}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4980CF36-3BE6-965B-5FE2-3228F6344739}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
