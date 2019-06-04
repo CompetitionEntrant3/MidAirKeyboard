@@ -13,6 +13,6 @@ The Virtual Augmented Tactile Mid-Air Keyboard, or VATMAK for short, is a 10-fin
 ## Design & Implementation
 7/24/2018
 
-You can check out the presentation I made for the Long Island Science and Engineering Fair, detailing each step of my thought process and implementation here:
+You can check out my presentation for this project, detailing each step of my thought process and implementation here:
 ![vatmakpresentationnew](https://user-images.githubusercontent.com/32249292/43155243-dadbd998-8f44-11e8-9cd2-83041ce7ac98.png)
 
